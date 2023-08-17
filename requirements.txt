@@ -1,0 +1,5 @@
+functions-framework==3.*
+pandas==1.5.3
+netCDF4==1.6.4
+siphon==0.7
+pvlib==0.9.1
